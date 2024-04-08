@@ -41,7 +41,7 @@ bookc.html
         .bookpage{
 
             width: 400px;
-            height: 500px;
+            height: 600px;
             color:black;
             margin-left: auto;
             margin-right: auto;
@@ -66,7 +66,7 @@ bookc.html
             display: inline;
             position: relative;
             color:darkblue;
-            top:180px;
+            top:240px;
             
             font-family:Arial, Helvetica, sans-serif;
             font-size: medium;
@@ -90,7 +90,7 @@ bookc.html
             color:darkred;
             font-size: medium;
             position: relative;
-            top:140px;
+            top:180px;
             left:330px;
         }
         .ed{
@@ -98,7 +98,7 @@ bookc.html
             font-size: medium;
             font-family: Verdana;
             position:relative;
-            top:110px;
+            top:150px;
         
         }
         .subtitle{
@@ -110,10 +110,10 @@ bookc.html
         }
         .mypic{
             position: relative;
-            top: 160px;
+            top: 180px;
             left: 260px;
-            width: 90px;
-            height: 80px;
+            width: 80px;
+            height: 90px;
             background-size:contain;
         }
         </style>
@@ -137,7 +137,7 @@ bookc.html
             </div>
 
             <div class="mypic">
-                <img src="id.jpg" width="120" height="100" >
+                <img src="WhatsApp Image 2024-04-08 at 13.52.17_dbdd035e.jpg" width="120" height="100" >
             </div>
             <div class="id">
                 <hr style="color:blueviolet">
@@ -160,8 +160,7 @@ bookc.html
 
 
 ## OUTPUT:
-![alt text](cover.png)
-![alt text](covee2.png)
+![alt text](co.png)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
